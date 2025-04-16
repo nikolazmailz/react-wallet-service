@@ -1,0 +1,14 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/react_wallet_service
+    username: your_username
+    password: your_password
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+  main:
+    allow-bean-definition-overriding: true
+
+logging:
+  level:
+    root: INFO
