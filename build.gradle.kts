@@ -8,6 +8,8 @@ plugins {
     kotlin("kapt") version "1.8.22"
 }
 
+
+
 //configure<KaptExtension> {
 //    jvmArgs.add("--add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-UNNAMED")
 //}
