@@ -14,6 +14,7 @@ plugins {
 //    jvmArgs.add("--add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-UNNAMED")
 //}
 
+
 group = "ru.wallet"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
