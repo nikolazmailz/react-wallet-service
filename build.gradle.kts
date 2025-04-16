@@ -20,7 +20,6 @@ java.sourceCompatibility = JavaVersion.VERSION_17
 //    jvmArgs("--add-exports=jdk.compiler/com.sun.tools.javac.main=ALL-UNNAMED")
 //}
 
-
 repositories {
     mavenCentral()
 }
